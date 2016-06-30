@@ -1,0 +1,145 @@
+# AEHitTest.py
+#
+# compare AE with s/c potential on a long term basis
+# choose -25 V or less events 
+#
+# LKS, August 2015
+#
+# imports
+import h5py
+import numpy as np
+from spacepy import pycdf
+from spacepy import datamodel as dm
+import os
+import glob
+import datetime
+import matplotlib.dates as dates
+import matplotlib.pyplot as plt
+from matplotlib.colors import LogNorm
+from numpy import ma
+from mpl_toolkits.axisartist.grid_finder import FixedLocator, \
+     MaxNLocator, DictFormatter
+from matplotlib.ticker import ScalarFormatter, FormatStrFormatter
+from scipy.interpolate import interp1d
+import scipy
+import scipy.stats
+#
+# start the date loop
+dateStart='20130101'
+dateEnd='20141231'
+# data
+hourGap=5
+date=dateStart
+endDt=datetime.datetime.strptime(dateEnd,'%Y%m%d')
+DT=datetime.datetime.strptime(date, '%Y%m%d')
+sat=['A', 'B']
+aeList=[]
+alList=[]
+aeTimeList=[]
+potentialList=[]
+dateArr=[]
+threshold=-10
+#
+# get all the AE data
+# first get 2013
+os.chdir('/Users/loisks/Documents/ResearchProjects/ChargingProject/AEindex/AE_121314/2013')
+f=glob.glob('*')
+for iFile in range(len(f)):
+    data=dm.readJSONheadedASCII(f[iFile])
+    aeList+=list(data['AE'])
+    aeTimeList+=list(data['DateTime'])
+    alList+=list(data['AL'])
+os.chdir('/Users/loisks/Documents/ResearchProjects/ChargingProject/AEindex/AE_121314/2014')
+f=glob.glob('*')
+for iFile in range(len(f)):
+    data=dm.readJSONheadedASCII(f[iFile])
+    aeList+=list(data['AE'])
+    aeTimeList+=list(data['DateTime'])
+    alList+=list(data['AL'])
+os.chdir('/Users/loisks/Documents/ResearchProjects/ChargingProject/')
+#
+AETimes=np.zeros(len(aeTimeList))
+# now have complete lists of times and indexes
+for iTime in range(len(aeTimeList)):
+    AETimes[iTime]=dates.date2num(datetime.datetime.strptime(aeTimeList[iTime], '%Y-%m-%dT%H:%M:%S'))
+#
+# now have all the AE stuff
+# get the s/c potential stuf
+potentialLow=[]
+potentialTimes=[]
+sats=['A', 'B']
+while DT != endDt:
+  date=datetime.datetime.strftime(DT, '%Y%m%d')
+  DT=datetime.datetime.strptime(date, '%Y%m%d')
+  for iSat in range(len(sats)):
+    os.chdir('EFW_L3_'+sats[iSat])
+    f=glob.glob('*'+date+'*')
+    try:
+        pyf=pycdf.CDF(f[0])
+    except:
+        continue
+    potential=-1.0*np.array(pyf['Vavg'][...])
+    epochE=dates.date2num(pyf['epoch'][...])
+    lowP=np.where(potential < threshold)[0]
+    try:
+        potentialLow+=list(potential[lowP])
+        potentialTimes+=list(epochE[lowP])
+    except:
+        potentialLow+=[]
+        potentialTimes+=[]
+    os.chdir('..')
+  DT=DT+datetime.timedelta(days=1)
+
+# function to find nearest points
+def find_nearest(array,value):
+    idx = (np.abs(array-value)).argmin()
+    return idx # return the index
+
+AElow=np.zeros(len(potentialTimes))
+ALlow=np.zeros(len(potentialTimes))
+print "at the Find Nearest"
+print "total points: " + str(len(potentialTimes))
+# find nearest points in AE
+for iTime in range(len(potentialTimes)):
+    nearest=find_nearest(AETimes, potentialTimes[iTime])
+    AElow[iTime]=aeList[nearest]
+    ALlow[iTime]=alList[nearest]
+
+#
+# now do a hit test
+pThresh=[-10,-15,-20,-25,-35,-40,-50,-65,-75,-100,-150]
+AEThresh=[100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+ALThresh=[-100,-200,-300,-400,-500, -600,-700,-800,-900,-1000]
+potentialLow=np.array(potentialLow)
+AElow=np.array(AElow)
+ALlow=np.array(ALlow)
+for iP in range(len(pThresh)):
+   print "AE Hit Test: "
+   for iAE in range(len(AEThresh)):
+       totalLen=len(potentialLow)
+       iTT=np.where((potentialLow <= pThresh[iP]) & (AElow >= AEThresh[iAE]))[0]
+       iTF=np.where((potentialLow <= pThresh[iP]) & (AElow < AEThresh[iAE]))[0]
+       iFT=np.where((potentialLow > pThresh[iP]) & (AElow >= AEThresh[iAE]))[0]
+       iFF=np.where((potentialLow > pThresh[iP]) & (AElow < AEThresh[iAE]))[0]
+       # resutls
+       print " For Potential Less than " + str(pThresh[iP]) + " and AE greater than " + str(AEThresh[iAE]) + ": "          
+       print "True True : " + str(len(iTT)/(1.0*totalLen))
+       print "True False : " + str(len(iTF)/(1.0*totalLen))
+       print "False True : " + str(len(iFT)/(1.0*totalLen))
+       print "False False : " + str(len(iFF)/(1.0*totalLen))
+
+
+   
+   for iAL in range(len(ALThresh)):
+       totalLen=len(potentialLow)
+       iTT=np.where((potentialLow <= pThresh[iP]) & (ALlow <= ALThresh[iAL]))[0]
+       iTF=np.where((potentialLow <= pThresh[iP]) & (ALlow > ALThresh[iAL]))[0]
+       iFT=np.where((potentialLow > pThresh[iP]) & (ALlow <= ALThresh[iAL]))[0]
+       iFF=np.where((potentialLow > pThresh[iP]) & (ALlow > ALThresh[iAL]))[0]
+       # resutls
+       print " For Potential Less than " + str(pThresh[iP]) + " and AL greater than " + str(ALThresh[iAL]) + ": "          
+       print "True True : " + str(len(iTT)/(1.0*totalLen))
+       print "True False : " + str(len(iTF)/(1.0*totalLen))
+       print "False True : " + str(len(iFT)/(1.0*totalLen))
+       print "False False : " + str(len(iFF)/(1.0*totalLen))      
+
