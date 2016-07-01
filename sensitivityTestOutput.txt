@@ -1,0 +1,2092 @@
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 0
+Success on high potential catches is: 0.0
+.557046979866
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 7230
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 7125
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 6039
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4626
+Success on high potential catches is: 0.828859060403
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 3352
+Success on high potential catches is: 0.802013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 7229
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 7125
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 6039
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4626
+Success on high potential catches is: 0.828859060403
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 3352
+Success on high potential catches is: 0.802013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 6847
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4598
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 6840
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4595
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 6037
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4390
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4626
+Success on high potential catches is: 0.828859060403
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 3352
+Success on high potential catches is: 0.802013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 5810
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 5810
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 5707
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 4213
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 3094
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2192
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1548
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4622
+Success on high potential catches is: 0.828859060403
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3740
+Success on high potential catches is: 0.825503355705
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2861
+Success on high potential catches is: 0.812080536913
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2081
+Success on high potential catches is: 0.780201342282
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 3352
+Success on high potential catches is: 0.802013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4567
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4567
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4567
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 4363
+Success on high potential catches is: 0.828859060403
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 3561
+Success on high potential catches is: 0.825503355705
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2737
+Success on high potential catches is: 0.812080536913
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 2011
+Success on high potential catches is: 0.780201342282
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1440
+Success on high potential catches is: 0.694630872483
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 962
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 680
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 446
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.1, Density=100000.0
+total identifiers = 3348
+Success on high potential catches is: 0.802013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.2, Density=100000.0
+total identifiers = 2884
+Success on high potential catches is: 0.798657718121
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.3, Density=100000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.4, Density=100000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.5, Density=100000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.6, Density=100000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.7, Density=100000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.8, Density=100000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 7228
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 7123
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 6037
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4624
+Success on high potential catches is: 0.828859060403
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 3350
+Success on high potential catches is: 0.802013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 7227
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 7123
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 6037
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4624
+Success on high potential catches is: 0.828859060403
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 3350
+Success on high potential catches is: 0.802013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 6845
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4598
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 6838
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4595
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 6035
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4390
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4624
+Success on high potential catches is: 0.828859060403
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 3350
+Success on high potential catches is: 0.802013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 5808
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 5808
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 5705
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 4213
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 3094
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2192
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1548
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4620
+Success on high potential catches is: 0.828859060403
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3740
+Success on high potential catches is: 0.825503355705
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2861
+Success on high potential catches is: 0.812080536913
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2081
+Success on high potential catches is: 0.780201342282
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 3350
+Success on high potential catches is: 0.802013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4565
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4565
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4565
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 4361
+Success on high potential catches is: 0.828859060403
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 3561
+Success on high potential catches is: 0.825503355705
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2737
+Success on high potential catches is: 0.812080536913
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 2011
+Success on high potential catches is: 0.780201342282
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1440
+Success on high potential catches is: 0.694630872483
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 962
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 680
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 446
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.1, Density=150000.0
+total identifiers = 3346
+Success on high potential catches is: 0.802013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.2, Density=150000.0
+total identifiers = 2884
+Success on high potential catches is: 0.798657718121
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.3, Density=150000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.4, Density=150000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.5, Density=150000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.6, Density=150000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.7, Density=150000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.8, Density=150000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 7219
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 7114
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 6028
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4615
+Success on high potential catches is: 0.828859060403
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 3341
+Success on high potential catches is: 0.802013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 7218
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 7114
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 6028
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4615
+Success on high potential catches is: 0.828859060403
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 3341
+Success on high potential catches is: 0.802013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 6836
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4598
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 6829
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4595
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 6026
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4390
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=15000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4615
+Success on high potential catches is: 0.828859060403
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=20000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 3341
+Success on high potential catches is: 0.802013422819
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=15000000.0, Tpar=25000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 5799
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=9000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 5799
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4251
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3109
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2195
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1550
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=10000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 5696
+Success on high potential catches is: 0.830536912752
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 4213
+Success on high potential catches is: 0.827181208054
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 3094
+Success on high potential catches is: 0.813758389262
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2192
+Success on high potential catches is: 0.781879194631
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1548
+Success on high potential catches is: 0.696308724832
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1036
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 720
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=15000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 482
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4611
+Success on high potential catches is: 0.828859060403
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3740
+Success on high potential catches is: 0.825503355705
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2861
+Success on high potential catches is: 0.812080536913
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2081
+Success on high potential catches is: 0.780201342282
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=20000000.0, Tpar=20000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 3341
+Success on high potential catches is: 0.802013422819
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=20000000.0, Tpar=25000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4556
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=9000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4556
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=10000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4556
+Success on high potential catches is: 0.830536912752
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3677
+Success on high potential catches is: 0.827181208054
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2797
+Success on high potential catches is: 0.813758389262
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2036
+Success on high potential catches is: 0.781879194631
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1449
+Success on high potential catches is: 0.696308724832
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 969
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 683
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=15000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 448
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 4352
+Success on high potential catches is: 0.828859060403
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 3561
+Success on high potential catches is: 0.825503355705
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2737
+Success on high potential catches is: 0.812080536913
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 2011
+Success on high potential catches is: 0.780201342282
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1440
+Success on high potential catches is: 0.694630872483
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 962
+Success on high potential catches is: 0.557046979866
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 680
+Success on high potential catches is: 0.429530201342
+for Tperp=25000000.0, Tpar=20000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 446
+Success on high potential catches is: 0.302013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.1, Density=200000.0
+total identifiers = 3337
+Success on high potential catches is: 0.802013422819
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.2, Density=200000.0
+total identifiers = 2884
+Success on high potential catches is: 0.798657718121
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.3, Density=200000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.4, Density=200000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.5, Density=200000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.6, Density=200000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.7, Density=200000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=25000000.0, Tpar=25000000.0, Pressure=0.8, Density=200000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 7199
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=9000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 7094
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=10000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 6008
+Success on high potential catches is: 0.830536912752
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=15000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 4595
+Success on high potential catches is: 0.828859060403
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=9000000.0, Tpar=20000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 3321
+Success on high potential catches is: 0.802013422819
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=9000000.0, Tpar=25000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 7198
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4719
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3271
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=9000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 7094
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4699
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3268
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2266
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1581
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=10000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 6008
+Success on high potential catches is: 0.830536912752
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4391
+Success on high potential catches is: 0.827181208054
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3193
+Success on high potential catches is: 0.813758389262
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2243
+Success on high potential catches is: 0.781879194631
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1570
+Success on high potential catches is: 0.696308724832
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1050
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 725
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=15000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 4595
+Success on high potential catches is: 0.828859060403
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 3742
+Success on high potential catches is: 0.825503355705
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 2862
+Success on high potential catches is: 0.812080536913
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2082
+Success on high potential catches is: 0.780201342282
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1489
+Success on high potential catches is: 0.694630872483
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1000
+Success on high potential catches is: 0.557046979866
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 700
+Success on high potential catches is: 0.429530201342
+for Tperp=10000000.0, Tpar=20000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 464
+Success on high potential catches is: 0.302013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 3321
+Success on high potential catches is: 0.802013422819
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 2886
+Success on high potential catches is: 0.798657718121
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 2308
+Success on high potential catches is: 0.785234899329
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 1751
+Success on high potential catches is: 0.761744966443
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1278
+Success on high potential catches is: 0.679530201342
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 878
+Success on high potential catches is: 0.543624161074
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 629
+Success on high potential catches is: 0.426174496644
+for Tperp=10000000.0, Tpar=25000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 415
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 6816
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4598
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=9000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.1, Density=250000.0
+total identifiers = 6809
+Success on high potential catches is: 0.830536912752
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.2, Density=250000.0
+total identifiers = 4595
+Success on high potential catches is: 0.827181208054
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.3, Density=250000.0
+total identifiers = 3246
+Success on high potential catches is: 0.813758389262
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.4, Density=250000.0
+total identifiers = 2260
+Success on high potential catches is: 0.781879194631
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.5, Density=250000.0
+total identifiers = 1577
+Success on high potential catches is: 0.696308724832
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.6, Density=250000.0
+total identifiers = 1053
+Success on high potential catches is: 0.557046979866
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.7, Density=250000.0
+total identifiers = 727
+Success on high potential catches is: 0.429530201342
+for Tperp=15000000.0, Tpar=10000000.0, Pressure=0.8, Density=250000.0
+total identifiers = 483
+Success on high potential catches is: 0.302013422819
